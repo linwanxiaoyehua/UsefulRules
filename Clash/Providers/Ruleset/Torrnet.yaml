@@ -8,3 +8,4 @@
 # TOTAL: 49
 payload:
   - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,plex.tv
